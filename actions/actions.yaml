@@ -1,0 +1,13 @@
+---
+name: shashank
+pack: packshashank
+runner_type: "python-script"
+description: action open web response!
+enabled: true
+entry_point: actions.py
+parameters:
+     url:
+        type: string
+        description: APIs url 
+        required: true
+        position: 1

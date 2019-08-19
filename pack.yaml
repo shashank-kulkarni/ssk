@@ -1,0 +1,14 @@
+---
+ref: packshashank
+name: Shashank  UI
+description: Simple pack containing examples of sensor, rule, and action.
+keywords:
+    - action
+    - shashank
+version: 3.1.0
+python_versions:
+  - "2"
+  - "3"
+author: shashank
+email: abc@gmail.com
+
